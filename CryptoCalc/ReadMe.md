@@ -1,1 +1,0 @@
-﻿Script hash (my private network): 0xe791f8b40efe1bf624895230cd2b4c50bb9eca3f

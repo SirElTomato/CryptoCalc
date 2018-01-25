@@ -52,7 +52,6 @@
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="build.tasks" />
-    <None Include="ReadMe.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Neo.ConvertTask.dll" />
